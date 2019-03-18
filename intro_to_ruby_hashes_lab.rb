@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-
+	actor = {:name epic_tragedy[:hero][:status] = "dead"}
 end
 
 def monopoly
